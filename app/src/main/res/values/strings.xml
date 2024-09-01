@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shake</string>
+    <string-array name="catlist">
+        <item>Katt 1</item>
+        <item>Katt 2</item>
+        <item>Katt 3</item>
+        <item>Katt 4</item>
+    </string-array>
+</resources>
